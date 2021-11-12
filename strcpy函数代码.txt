@@ -11,6 +11,7 @@ char* StrCpy(char* src)
     dst[len]='\0';
     return dst;
 }
+
 /** 
  本地编辑
 **/
