@@ -12,6 +12,3 @@ char* StrCpy(char* src)
     return dst;
 }
 
-/** 
- 本地编辑
-**/
