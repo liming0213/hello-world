@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c041d8aa-99b9-40a3-bce4-3bcd3ee94bde": {
+      "ProjectGuid": "c041d8aa-99b9-40a3-bce4-3bcd3ee94bde",
+      "DisplayName": "MathLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
