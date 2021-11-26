@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3162542e-8d27-4888-8979-c8c014d033f1": {
+      "ProjectGuid": "3162542e-8d27-4888-8979-c8c014d033f1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "aff6d0b3-32eb-41cc-9030-0731fd135ffe": {
+      "ProjectGuid": "aff6d0b3-32eb-41cc-9030-0731fd135ffe",
+      "DisplayName": "MathLibrary",
+      "ColorIndex": 1
+    },
+    "8b6b06ce-dbef-491a-9a77-23e890bb5ca6": {
+      "ProjectGuid": "8b6b06ce-dbef-491a-9a77-23e890bb5ca6",
+      "DisplayName": "MathClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
